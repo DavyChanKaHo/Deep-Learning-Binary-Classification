@@ -1,2 +1,2 @@
 # Deep-Learning
-Deep Learning - Classification
+Deep Learning - Binary Classification
